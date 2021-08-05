@@ -1,0 +1,17 @@
+def main():
+    LIMITE = 1000
+    contador = 0
+    elevado = 2**contador
+
+    while elevado < LIMITE:
+        contador = contador + 1
+        elevado = 2**contador
+        print("2 elevado a la "+ str(contador) + "es igual a " + str(elevado))
+
+    for i in range(10):
+        print(11 * i)
+
+
+
+if __name__ == '__main__':
+    main()
