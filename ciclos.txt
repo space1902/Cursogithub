@@ -15,3 +15,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+Este archivo enseña el ciclo while y for
