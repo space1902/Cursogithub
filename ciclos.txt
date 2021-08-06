@@ -24,12 +24,3 @@ Este es el branch que hemos creado y se ha emezado a modificar
 
 esta es la modificacion mas grande
 
-
-despues de realizar el branch vamos a empezar a edactar el proyecto
-
-este proecto consta de 3 partes
-
-
-
-
-
