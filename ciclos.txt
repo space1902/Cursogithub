@@ -18,4 +18,8 @@ if __name__ == '__main__':
 
 Este archivo enseña el ciclo while y for
 
-y ahora vamos a crear un branch
+despues de realizar el branch vamos a empezar a edactar el proyecto
+
+este proecto consta de 3 partes
+
+
